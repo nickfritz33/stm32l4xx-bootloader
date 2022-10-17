@@ -1,0 +1,8 @@
+*.idea/
+*cmake-build-debug-embedded/
+.cproject
+.mxproject
+.project
+CMakeLists_template.txt
+LICENSE
+package.json
